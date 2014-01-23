@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g>
+	<g>
+		<rect x="4.5" y="1.487" fill="none" stroke="#000100" stroke-miterlimit="10" width="23" height="23"/>
+		<g>
+			<path fill="#000100" d="M15.244,9.348l3.385-4.331h-2.335l-1.56,1.991c-0.225,0.28-0.446,0.561-0.666,0.843l-2.211-2.834H9.525
+				l3.361,4.342l-3.565,4.629h2.314l2.433-3.145l2.454,3.145h2.317L15.244,9.348z"/>
+			<path fill="#000100" d="M20.037,10.031c0,0.583-0.469,1.053-1.048,1.053c-0.581,0-1.05-0.47-1.05-1.053
+				c0-0.578,0.469-1.049,1.05-1.049C19.568,8.982,20.037,9.453,20.037,10.031z"/>
+			<path fill="#000100" d="M10.219,10.031c0,0.583-0.468,1.053-1.051,1.053c-0.578,0-1.049-0.47-1.049-1.053
+				c0-0.578,0.471-1.049,1.049-1.049C9.752,8.982,10.219,9.453,10.219,10.031z"/>
+		</g>
+	</g>
+	<polyline fill="none" stroke="#1D1D1B" stroke-width="1.5" stroke-miterlimit="10" points="11.5,30.513 16,27.299 20.5,30.513 	"/>
+</g>
+</svg>

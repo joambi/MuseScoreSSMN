@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#000100" d="M23.696,13.545l2.807-3.589h-1.936l-1.292,1.65c-0.186,0.233-0.372,0.465-0.554,0.701l-1.832-2.35h-1.932
+			l2.786,3.6l-2.957,3.839h1.921l2.015-2.608l2.037,2.608h1.922L23.696,13.545z"/>
+		<circle fill="#000100" cx="26.804" cy="14.113" r="0.871"/>
+		<circle fill="#000100" cx="18.66" cy="14.113" r="0.871"/>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" x1="30.512" y1="3.454" x2="30.512" y2="3.954"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="1.0357,1.0357" x1="30.512" y1="4.99" x2="30.512" y2="21.043"/>
+			<polyline fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" points="30.512,21.561 30.512,22.061 
+				30.012,22.061 			"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="1.0357,1.0357" x1="28.975" y1="22.061" x2="12.922" y2="22.061"/>
+			<polyline fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" points="12.404,22.061 11.904,22.061 
+				11.904,21.561 			"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="1.0357,1.0357" x1="11.904" y1="20.523" x2="11.904" y2="4.473"/>
+			<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" x1="11.904" y1="3.954" x2="11.904" y2="3.454"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" x1="11.904" y1="22.061" x2="11.479" y2="22.322"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="1.0301,1.0301" x1="10.604" y1="22.865" x2="2.279" y2="28.012"/>
+			<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" x1="1.842" y1="28.283" x2="1.417" y2="28.546"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" x1="30.583" y1="22.253" x2="30.285" y2="22.654"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="0.9763,0.9763" x1="29.704" y1="23.438" x2="26.506" y2="27.752"/>
+			
+				<line fill="none" stroke="#1D1D1B" stroke-width="0.75" stroke-miterlimit="10" x1="26.215" y1="28.145" x2="25.917" y2="28.546"/>
+		</g>
+	</g>
+	<g>
+		<line fill="none" stroke="#000100" stroke-width="0.5" stroke-miterlimit="10" x1="15.979" y1="26.016" x2="20.343" y2="26.016"/>
+		<ellipse fill="#000100" cx="18.755" cy="24.628" rx="0.595" ry="0.313"/>
+		<ellipse fill="#000100" cx="17.494" cy="27.399" rx="0.595" ry="0.318"/>
+	</g>
+</g>
+</svg>
